@@ -1,3 +1,5 @@
+> ⚠️ Run all scripts as Administrator.  
+> Test on a non-production system before use.
 ### Overview
 
 This project provides a simple, practical set of PowerShell scripts to harden a Windows 11 system against accidental malware installation.
